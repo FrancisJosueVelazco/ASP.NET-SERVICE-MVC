@@ -1,0 +1,11 @@
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete

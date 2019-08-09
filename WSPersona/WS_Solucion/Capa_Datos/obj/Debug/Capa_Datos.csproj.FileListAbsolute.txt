@@ -1,0 +1,9 @@
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datos\obj\Debug\Capa_Datos.pdb

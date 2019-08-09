@@ -1,0 +1,6 @@
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datp\bin\Debug\Capa_Datp.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datp\bin\Debug\Capa_Datp.pdb
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datp\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datp\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datp\obj\Debug\Capa_Datp.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Datp\obj\Debug\Capa_Datp.pdb

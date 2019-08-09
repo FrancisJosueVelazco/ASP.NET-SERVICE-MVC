@@ -1,0 +1,5 @@
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\fvelazco\Desktop\Proyecto MVC\WSPersona\WS_Solucion\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
